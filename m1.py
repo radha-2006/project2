@@ -8,9 +8,9 @@ import requests
 
 # Initialize Pinecone and OpenAI API
 
-pinecone.init(api_key="YOUR_PINECONE_API_KEY")
+pinecone.init(api_key="pcsk_4FqKa9_2xMgJNhy8WMYbzgY5tFAcgnomSpPTtdbam5dLZLd8xzU8LwcVboYY4bo1jqU6rW")
 
-openai.api_key = "YOUR_OPENAI_API_KEY"
+openai.api_key = "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"
 
  
 
